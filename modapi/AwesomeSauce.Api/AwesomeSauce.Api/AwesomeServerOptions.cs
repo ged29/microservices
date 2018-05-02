@@ -2,6 +2,6 @@
 {
     public class AwesomeServerOptions
     {
-        public string FolderPath { get; internal set; }
+        public string FolderPath { get; set; }
     }
 }

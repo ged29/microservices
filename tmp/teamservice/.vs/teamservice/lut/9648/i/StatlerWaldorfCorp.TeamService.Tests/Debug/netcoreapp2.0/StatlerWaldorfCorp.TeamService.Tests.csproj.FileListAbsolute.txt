@@ -1,0 +1,14 @@
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.deps.json
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.runtimeconfig.json
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.runtimeconfig.dev.json
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.dll
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.pdb
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService.Tests\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.csproj.CoreCompileInputs.cache
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService.Tests\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.AssemblyInfoInputs.cache
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService.Tests\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.AssemblyInfo.cs
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService.Tests\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.csproj.CopyComplete
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService.Tests\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.dll
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService.Tests\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.pdb

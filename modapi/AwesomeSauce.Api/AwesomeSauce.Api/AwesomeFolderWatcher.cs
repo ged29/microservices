@@ -18,8 +18,7 @@ namespace AwesomeSauce.Api
         public AwesomeFolderWatcher(IHttpApplication<TContext> application, IFeatureCollection features)
         {
             var path = features.Get<IServerAddressesFeature>().Addresses.FirstOrDefault();
-            this.watcher = new FileSystemWatcher(path);
-            this.watcher.EnableRaisingEvents = true;
+            this.watcher = new FileSystemWatcher { Path = path, EnableRaisingEvents = true };
 
             this.application = application;
             this.features = features;
@@ -27,13 +26,15 @@ namespace AwesomeSauce.Api
 
         public void Watch()
         {
+            // Occurs when a file or directory in the specified System.IO.FileSystemWatcher.Path is created.
             this.watcher.Created += async (object sender, FileSystemEventArgs e) =>
             {
-                var ctx = (HostingApplication.Context)(object)this.application.CreateContext(this.features);
-                ctx.HttpContext = new AwesomeHttpContext(this.features, e.FullPath);
-
-                await application.ProcessRequestAsync((TContext)(object)ctx);
-                ctx.HttpContext.Response.OnCompleted(null, null);
+                // Create a new application context
+                var appCtx = (HostingApplication.Context)(object)this.application.CreateContext(this.features);
+                appCtx.HttpContext = new AwesomeHttpContext(this.features, e.FullPath);
+                // Asynchronously processes an application context
+                await this.application.ProcessRequestAsync((TContext)(object)appCtx);
+                appCtx.HttpContext.Response.OnCompleted(null, null);
             };
 
             Task.Run(() => this.watcher.WaitForChanged(WatcherChangeTypes.All));

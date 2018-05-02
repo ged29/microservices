@@ -1,0 +1,15 @@
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.Integration.deps.json
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.Integration.runtimeconfig.json
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.Integration.runtimeconfig.dev.json
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.Integration.dll
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.Integration.pdb
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.Integration.csproj.CoreCompileInputs.cache
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.Integration.AssemblyInfoInputs.cache
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.Integration.AssemblyInfo.cs
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.Integration.csproj.CopyComplete
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.Integration.dll
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.Integration.pdb
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService.Tests.Integration\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.Tests.Integration.csprojResolveAssemblyReference.cache

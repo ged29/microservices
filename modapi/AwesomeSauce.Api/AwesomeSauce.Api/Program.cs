@@ -14,18 +14,19 @@ namespace AwesomeSauce.Api
     {
         public static void Main(string[] args)
         {
-            BuildWebHostCustomly(args).Run();
+            BuildWebHost(args).Run();
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+                .UseAwesomeServer(opt => opt.FolderPath = @"c:\temp\UseAwesomeServerTest")
                 .UseStartup<Startup>()
                 .Build();
 
         public static IWebHost BuildWebHostCustomly(string[] args)
         {
             return new WebHostBuilder()
-                .UseKestrel()
+                .UseAwesomeServer(opt => opt.FolderPath = @"c:\temp\UseAwesomeServerTest")
                 .UseContentRoot(Directory.GetCurrentDirectory())
                 .ConfigureAppConfiguration(config => config.AddJsonFile("appSettings.json", true))
                 .ConfigureLogging(logging => logging.AddConsole().AddDebug())

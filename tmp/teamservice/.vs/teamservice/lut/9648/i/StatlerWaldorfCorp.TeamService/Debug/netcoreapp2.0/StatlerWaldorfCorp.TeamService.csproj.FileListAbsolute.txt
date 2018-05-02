@@ -1,0 +1,11 @@
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.deps.json
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.runtimeconfig.json
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.runtimeconfig.dev.json
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.dll
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\b\StatlerWaldorfCorp.TeamService\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.pdb
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.csproj.CoreCompileInputs.cache
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.AssemblyInfoInputs.cache
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.AssemblyInfo.cs
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.csproj.CopyComplete
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.dll
+D:\my-projects\microservices\teamservice\.vs\teamservice\lut\0\i\StatlerWaldorfCorp.TeamService\Debug\netcoreapp2.0\StatlerWaldorfCorp.TeamService.pdb
